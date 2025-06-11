@@ -1,2 +1,1 @@
-# I am studying for the az-400 exam
-Dev2025
+# I will pass the exam az-400!
