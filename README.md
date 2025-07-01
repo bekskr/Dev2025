@@ -1,1 +1,1 @@
-# I will pass the exam az-400!
+# I am studying for the az-400 exam
